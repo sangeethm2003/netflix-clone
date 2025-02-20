@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+body {
+
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    background-color: black;
+}
+
+
+
+.main {
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(/assets/netflix\ background.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #000;
+    color: #fff;
+    min-height: 95vh;
+ 
+}
+
+
+.logo {
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.btn-light {
+    color: #fff;
+    background-color: transparent;
+    border-color: #f8f9fa;
+    
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #ff0018;
+    border-color: #dc3545;
+}
+
+.mail{
+    width: 35%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-radius: 10px;
+    font-size: 16px;
+    color: #fff;
+    padding: 15px 15px 15px 17px;
+
+}
+
+
+
+.gradient-line span{
+    background: linear-gradient(to right, #000000, #ff0019 50%,  #000000);
+    height: 5px;
+    display: block;
+}
+
+.shows {
+    color: #fff;
+    background-color: transparent;
+    border-color: #f8f9fa;
+    
+}
+
+#b1{
+    border: solid none;
+    
+}
+
+#im{
+margin-left: 100px;
+background-color: #000;
+}
+.main-1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.accordion-item:last-of-type .accordion-button.collapsed {
+     border-bottom-right-radius:  100;
+    border-bottom-left-radius: 0; 
+}
+.accordion-flush .accordion-item .accordion-button {
+    border-radius: 0;
+}
+#pic img:hover{
+    box-shadow: 0 0 0 5px red;
+    transform: scale(110%); 
+    opacity:10;
+    border-radius:15%;
+    transition: 2s ease;
+   
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: .5rem 1rem;
+    font-size: 1rem;
+}
+

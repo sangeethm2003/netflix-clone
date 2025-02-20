@@ -1,0 +1,34 @@
+body {
+    background-color: #0a0b18; /* Dark background */
+    color: #ca2828; /* White text */
+    font-family: sans-serif;
+    min-height: 100vh; /* Make body at least as tall as the viewport */
+    display: flex; 
+    align-items: center; 
+    justify-content: center; /* Center content vertically and horizontally */
+}
+img{
+    width: 800px;
+    height: 800px;
+}
+
+.container {
+    background-color: rgba(34, 30, 52, 0.7); /* Slightly transparent black */
+    padding: 40px;
+    border-radius: 5px;
+}
+
+.logo {
+    width: 180px;
+    margin-bottom: 50px;
+}
+
+.btn-primary {
+    background-color: #101fa6; /* Netflix red */
+    border-color: #352161;
+}
+.h2{
+    background-color: red;
+    background-position: center;
+    background-size: 400px;
+}
