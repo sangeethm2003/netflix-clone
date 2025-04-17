@@ -20,14 +20,14 @@ body {
     background-position: center;
     background-color: #000;
     color: #fff;
-    min-height: 95vh;
+    min-height: 96vh;
  
 }
 
 
 .logo {
-    padding: 5px;
-    margin-left: 10px;
+    padding: 6px;
+    margin-left: 11px;
 }
 
 .btn-light {
