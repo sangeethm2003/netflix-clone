@@ -8,7 +8,7 @@
 
 body {
 
-    
+
     font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
     background-color: black;
 }
@@ -23,9 +23,8 @@ body {
  
 }
 
-
 .logo {
-    padding: 9px;
+    padding: 10px;
     margin-left: 10px;
 }
 
@@ -51,7 +50,7 @@ body {
     border-radius: 11px;
     font-size: 17px;
     color: #fff;
-    padding: 16px 16px 16px 16px;
+    padding: 17px 17px 17px 17px;
 
 }
 
