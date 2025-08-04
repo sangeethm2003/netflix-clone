@@ -57,7 +57,7 @@ body {
 
 .gradient-line span{
     background: linear-gradient(to right, #000000, #ff0019 50%,  #000000);
-    height: 5px;
+    height: 6px;
     display: block;
 }
 
@@ -74,7 +74,7 @@ body {
 }
 
 #im{
-margin-left: 100px;
+margin-left: 101px;
 background-color: #000;
 }
 .main-1{
